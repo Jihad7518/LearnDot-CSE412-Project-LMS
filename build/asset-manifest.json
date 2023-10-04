@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.234d6c7a.css",
+    "main.js": "/static/js/main.714c4e51.js",
+    "static/media/login.webp": "/static/media/login.c608ee0b8e295f6e15c2.webp",
+    "static/media/Instructor.png": "/static/media/Instructor.7d1c2a98ce73b0b13898.png",
+    "static/media/TimelineImage.png": "/static/media/TimelineImage.a610b1e5d891ac77fe93.png",
+    "static/media/FoundingStory.png": "/static/media/FoundingStory.84f2828a5f4a9c08a802.png",
+    "static/media/Plan_your_lessons.svg": "/static/media/Plan_your_lessons.f123ccf442a2a364a459a7bbec807045.svg",
+    "static/media/Compare_with_others.svg": "/static/media/Compare_with_others.8e950efa990d53f34b35893a1e03cea1.svg",
+    "static/media/bghome.svg": "/static/media/bghome.de04eae287ff1d29f0b1.svg",
+    "static/media/Know_your_progress.png": "/static/media/Know_your_progress.cf3ea1c51544985430d3.png",
+    "static/media/frame.png": "/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/signup.webp": "/static/media/signup.acaf50bcb11d9aec44b4.webp",
+    "static/media/aboutus1.webp": "/static/media/aboutus1.86606deea209badf5925.webp",
+    "static/media/aboutus2.webp": "/static/media/aboutus2.0a1cd797ce3a69e81830.webp",
+    "static/media/aboutus3.webp": "/static/media/aboutus3.f5cfba861877ea03735d.webp",
+    "static/media/Logo2.svg": "/static/media/Logo2.2d9e85de9e756cda89ffc4582338c939.svg",
+    "static/media/Logo1.svg": "/static/media/Logo1.73daf51e41d665299fc682bc3cb53878.svg",
+    "static/media/Logo3.svg": "/static/media/Logo3.0a56f78fead602f0d54c55ddcdf7e616.svg",
+    "static/media/Logo4.svg": "/static/media/Logo4.5da4c6e0c53e6745b25529891ef82458.svg",
+    "static/media/space.svg": "/static/media/space.9cc35f755f8fa3f3e21d9fd278f00e85.svg",
+    "index.html": "/index.html",
+    "static/media/science.svg": "/static/media/science.2359211600c89c96a380975fdc9894e5.svg",
+    "static/media/geography.svg": "/static/media/geography.198a5baaa6e142d11baa92f0de7f6a31.svg",
+    "static/media/history.svg": "/static/media/history.b7aeabd3c5d3f65d09914c6606d23abb.svg",
+    "main.234d6c7a.css.map": "/static/css/main.234d6c7a.css.map",
+    "main.714c4e51.js.map": "/static/js/main.714c4e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.234d6c7a.css",
+    "static/js/main.714c4e51.js"
+  ]
+}
